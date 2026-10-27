@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70" aria-hidden="true">
+  <defs>
+    <clipPath id="strip">
+      <rect width="1200" height="70" rx="14"/>
+    </clipPath>
+    <filter id="soft" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#strip)">
+    <rect width="1200" height="70" fill="#151311"/>
+    <g filter="url(#soft)">
+      <ellipse rx="220" ry="40" cy="45" fill="#235347" opacity="0.9">
+        <animate attributeName="cx" values="200;520;200" dur="20s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse rx="180" ry="35" cy="30" fill="#7a4f2e" opacity="0.8">
+        <animate attributeName="cx" values="1000;700;1000" dur="24s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g fill="none" stroke="#f4f1ea" stroke-opacity="0.12" stroke-width="1.2">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -60 0; 0 0" dur="18s" repeatCount="indefinite"/>
+      <path d="M-60 40 C 120 20, 260 60, 440 38 S 760 20, 940 42 S 1180 58, 1300 36"/>
+      <path d="M-60 52 C 130 34, 270 70, 450 50 S 770 34, 950 54 S 1190 68, 1300 48"/>
+    </g>
+  </g>
+</svg>
