@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:151311,100:235347&height=150&section=header&text=Darko%20Boesmans&fontColor=f4f1ea&fontSize=48&fontAlignY=42&desc=Front-end%20developer%20and%20designer%20%C2%B7%20Lebbeke%2C%20Belgium&descSize=16&descAlignY=68" width="100%" alt="Darko Boesmans" />
+<img src="./assets/header.svg" width="100%" alt="Darko Boesmans, front-end developer and designer from Lebbeke, Belgium" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=4000&pause=1500&color=B07A4A&center=true&vCenter=true&width=520&lines=Designing+it+in+Figma%2C+then+building+it+myself.;Currently+learning+C%23+and+.NET." alt="Designing it in Figma, then building it myself." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=4000&pause=1500&color=B07A4A&center=true&vCenter=true&width=520&lines=Currently+learning+C%23+and+.NET.;Running+my+own+home+server+and+local+AI.;Open+to+junior+developer+roles+in+Flanders." alt="Currently learning C# and .NET." />
 </p>
 
 <p align="center">
@@ -101,4 +101,4 @@ If you're hiring, working on something interesting, or just want to talk about W
   <img src="https://komarev.com/ghpvc/?username=DarkoBoesmans&style=flat-square&color=235347&label=visitors" alt="Visitors" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:235347,100:151311&height=40&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
